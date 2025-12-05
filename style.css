@@ -1,0 +1,107 @@
+
+body{
+    background-image: url(WhatsApp\ Image\ 2025-12-05\ at\ 11.50.55\ AM.jpeg);
+    font-family: sans-serif;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header ul li {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.ssss{
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: large;
+}
+.header ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
+.header ul li a:hover{
+    color:gold;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+.content p{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.content button{
+    background-color: darkorange;
+    color: white;
+    border-radius: 6px;
+    border-color: darkorange;
+    cursor: pointer;
+}
+.contentt h2{
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+.contentt h4{
+    color: white;
+    letter-spacing: 1px;
+    font-size: small;
+}
+.contentt button{
+    background-color: darkorange;
+    color: white;
+    border-radius: 6px;
+    border-color: darkorange;
+    cursor: pointer;
+}
+.contenttt h2{
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+.contenttt h4{
+    color: white;
+    letter-spacing: 1px;
+    font-size: small;
+}
+.contenttt button{
+    background-color: darkorange;
+    color: white;
+    border-radius: 6px;
+    border-color: darkorange;
+    cursor: pointer;
+}
+.contenttt img{
+    height: 70px;
+    width:60px;
+    border-radius: 10px;
+    float: left;
+}
+.image{
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    gap: 20px;
+}
+.image img{
+    width: 50px;
+    display: block;
+    margin-bottom: 10px;
+}
+.image p{
+    color: white;
+    font-weight: 700;
+}
