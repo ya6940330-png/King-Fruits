@@ -6,6 +6,7 @@ body{
     justify-content: space-between;
     align-items: center;
     margin-top: 15px;
+    margin-left: 10px;
 }
 .header{
     display: flex;
@@ -16,18 +17,18 @@ body{
     display: inline-block;
     justify-content: center;
     align-items: center;
-    margin-left:100px;
+    margin-left: 30px;
 }
 .ssss{
     color: white;
     text-decoration: none;
     font-weight: 900;
-    font-size: large;
+    font-size: larger;
 }
 .header ul li a{
     text-decoration: none;
     color: white;
-    font-weight: 700;
+    font-weight: 900;
 
 }
 .header ul li a:hover{
@@ -42,7 +43,7 @@ body{
 .content p{
     text-decoration: none;
     color: white;
-    font-weight: 700;
+    font-weight: 900;
 }
 .content button{
     background-color: darkorange;
@@ -50,16 +51,18 @@ body{
     border-radius: 6px;
     border-color: darkorange;
     cursor: pointer;
+    font-size: 20px;
 }
 .contentt h2{
     color: white;
     letter-spacing: 2px;
     font-weight: 900;
+    font-size: 30px;
 }
 .contentt h4{
     color: white;
     letter-spacing: 1px;
-    font-size: small;
+    font-size:15px;
 }
 .contentt button{
     background-color: darkorange;
@@ -67,6 +70,7 @@ body{
     border-radius: 6px;
     border-color: darkorange;
     cursor: pointer;
+    font-size: 20px;
 }
 .contenttt h2{
     color: white;
@@ -76,7 +80,7 @@ body{
 .contenttt h4{
     color: white;
     letter-spacing: 1px;
-    font-size: small;
+    font-size: medium;
 }
 .contenttt button{
     background-color: darkorange;
@@ -86,8 +90,8 @@ body{
     cursor: pointer;
 }
 .contenttt img{
-    height: 70px;
-    width:60px;
+    height: 90px;
+    width:70px;
     border-radius: 10px;
     float: left;
 }
@@ -98,13 +102,12 @@ body{
     gap: 20px;
 }
 .image img{
-    width: 50px;
+    height: 90px;
+    width: 70px;
     display: block;
     margin-bottom: 10px;
 }
 .image p{
     color: white;
-    font-weight: 700;
-
+    font-weight: 900;
 }
-
