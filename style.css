@@ -5,6 +5,7 @@ body{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin-left:100px;
     margin-top: 15px;
 }
 .header{
@@ -104,4 +105,5 @@ body{
 .image p{
     color: white;
     font-weight: 700;
+
 }
